@@ -133,8 +133,590 @@
                 "label": "White - Gypsy or Irish Traveller "
             },
             {
-                "code": "",
-                "label": "White - Any other White background"
+                "code": "4",
+                "label": "Any other White background"
+            },
+            {
+                "code": "5",
+                "label": "Mixed or Multiple ethnic groups - White and Black Caribbean  "
+            },
+            {
+                "code": "6",
+                "label": "Mixed or Multiple ethnic groups - White and Black African"
+            },
+            {
+                "code": "7",
+                "label": "Mixed or Multiple ethnic groups - White and Asian  "
+            },
+            {
+                "code": "8",
+                "label": "Any other Mixed or Multiple ethnic background"
+            },
+            {
+                "code": "9",
+                "label": "Asian or Asian British - Indian"
+            },
+            {
+                "code": "10",
+                "label": "Asian or Asian British - Bangladeshi "
+            },
+            {
+                "code": "11",
+                "label": "Asian or Asian British - Pakistani"
+            },
+            {
+                "code": "12",
+                "label": "Asian or Asian British - Chinese"
+            },
+            {
+                "code": "13",
+                "label": "Any other Asian background "
+            },
+            {
+                "code": "14",
+                "label": "Black, African, Caribbean or Black British - African"
+            },
+            {
+                "code": "15",
+                "label": "Black, African, Caribbean or Black British - Caribbean"
+            },
+            {
+                "code": "16",
+                "label": "Any other Black background"
+            },
+            {
+                "code": "17",
+                "label": "Any other ethnic group"
+            },
+            {
+                "code": "18",
+                "label": "Prefer not to answer"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q4_Education",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Highest level of education: ",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "GCSE's"
+            },
+            {
+                "code": "2",
+                "label": "A-Levels"
+            },
+            {
+                "code": "3",
+                "label": "Currently studying undergraduate"
+            },
+            {
+                "code": "4",
+                "label": "Undergraduate degree"
+            },
+            {
+                "code": "5",
+                "label": "Currently studying postgraduate "
+            },
+            {
+                "code": "6",
+                "label": "Postgraduate degree "
+            },
+            {
+                "code": "7",
+                "label": "Other (please specify)"
+            },
+            {
+                "code": "8",
+                "label": "Prefer not to answer "
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q5_Profession or study",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "text",
+        "field_label": "Current profession or study:",
+        "select_choices_or_calculations": [
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Preamble_PMDD",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "descriptive",
+        "field_label": "The next questions are about your experience of PMDD. There are no right or wrong answers. This will help us understand how your experience of PMDD relates to questions logged in your daily and weekly questionnaires and your wearable data. Please answer each question as best as you can. There will be opportunities to share your identity or experiences using free-text boxes. ",
+        "select_choices_or_calculations": [
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q7_Time Diagnosis",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "text",
+        "field_label": "When did you first receive a diagnosis of PMDD? (Please insert the approximate date, month, and / or year)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "White - English, Welsh, Scottish, Northern Irish or British"
+            },
+            {
+                "code": "2",
+                "label": "White - Irish"
+            },
+            {
+                "code": "3",
+                "label": "White - Gypsy or Irish Traveller "
+            },
+            {
+                "code": "4",
+                "label": "Any other White background"
+            },
+            {
+                "code": "5",
+                "label": "Mixed or Multiple ethnic groups - White and Black Caribbean  "
+            },
+            {
+                "code": "6",
+                "label": "Mixed or Multiple ethnic groups - White and Black African"
+            },
+            {
+                "code": "7",
+                "label": "Mixed or Multiple ethnic groups - White and Asian  "
+            },
+            {
+                "code": "8",
+                "label": "Any other Mixed or Multiple ethnic background"
+            },
+            {
+                "code": "9",
+                "label": "Asian or Asian British - Indian"
+            },
+            {
+                "code": "10",
+                "label": "Asian or Asian British - Bangladeshi "
+            },
+            {
+                "code": "11",
+                "label": "Asian or Asian British - Pakistani"
+            },
+            {
+                "code": "12",
+                "label": "Asian or Asian British - Chinese"
+            },
+            {
+                "code": "13",
+                "label": "Any other Asian background "
+            },
+            {
+                "code": "14",
+                "label": "Black, African, Caribbean or Black British - African"
+            },
+            {
+                "code": "15",
+                "label": "Black, African, Caribbean or Black British - Caribbean"
+            },
+            {
+                "code": "16",
+                "label": "Any other Black background"
+            },
+            {
+                "code": "17",
+                "label": "Any other ethnic group"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q8_Comorbidity",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "text",
+        "field_label": "Do you have any other conditions? If so, please briefly describe below and indicate if these are diagnosed or self-identified:",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "White - English, Welsh, Scottish, Northern Irish or British"
+            },
+            {
+                "code": "2",
+                "label": "White - Irish"
+            },
+            {
+                "code": "3",
+                "label": "White - Gypsy or Irish Traveller "
+            },
+            {
+                "code": "4",
+                "label": "Any other White background"
+            },
+            {
+                "code": "5",
+                "label": "Mixed or Multiple ethnic groups - White and Black Caribbean  "
+            },
+            {
+                "code": "6",
+                "label": "Mixed or Multiple ethnic groups - White and Black African"
+            },
+            {
+                "code": "7",
+                "label": "Mixed or Multiple ethnic groups - White and Asian  "
+            },
+            {
+                "code": "8",
+                "label": "Any other Mixed or Multiple ethnic background"
+            },
+            {
+                "code": "9",
+                "label": "Asian or Asian British - Indian"
+            },
+            {
+                "code": "10",
+                "label": "Asian or Asian British - Bangladeshi "
+            },
+            {
+                "code": "11",
+                "label": "Asian or Asian British - Pakistani"
+            },
+            {
+                "code": "12",
+                "label": "Asian or Asian British - Chinese"
+            },
+            {
+                "code": "13",
+                "label": "Any other Asian background "
+            },
+            {
+                "code": "14",
+                "label": "Black, African, Caribbean or Black British - African"
+            },
+            {
+                "code": "15",
+                "label": "Black, African, Caribbean or Black British - Caribbean"
+            },
+            {
+                "code": "16",
+                "label": "Any other Black background"
+            },
+            {
+                "code": "17",
+                "label": "Any other ethnic group"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q9_Treatment",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "text",
+        "field_label": "Are you currently receiving any support or treatment for PMDD? If so, please briefly describe below",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "White - English, Welsh, Scottish, Northern Irish or British"
+            },
+            {
+                "code": "2",
+                "label": "White - Irish"
+            },
+            {
+                "code": "3",
+                "label": "White - Gypsy or Irish Traveller "
+            },
+            {
+                "code": "4",
+                "label": "Any other White background"
+            },
+            {
+                "code": "5",
+                "label": "Mixed or Multiple ethnic groups - White and Black Caribbean  "
+            },
+            {
+                "code": "6",
+                "label": "Mixed or Multiple ethnic groups - White and Black African"
+            },
+            {
+                "code": "7",
+                "label": "Mixed or Multiple ethnic groups - White and Asian  "
+            },
+            {
+                "code": "8",
+                "label": "Any other Mixed or Multiple ethnic background"
+            },
+            {
+                "code": "9",
+                "label": "Asian or Asian British - Indian"
+            },
+            {
+                "code": "10",
+                "label": "Asian or Asian British - Bangladeshi "
+            },
+            {
+                "code": "11",
+                "label": "Asian or Asian British - Pakistani"
+            },
+            {
+                "code": "12",
+                "label": "Asian or Asian British - Chinese"
+            },
+            {
+                "code": "13",
+                "label": "Any other Asian background "
+            },
+            {
+                "code": "14",
+                "label": "Black, African, Caribbean or Black British - African"
+            },
+            {
+                "code": "15",
+                "label": "Black, African, Caribbean or Black British - Caribbean"
+            },
+            {
+                "code": "16",
+                "label": "Any other Black background"
+            },
+            {
+                "code": "17",
+                "label": "Any other ethnic group"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q10_Contraception",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Are you currently using hormonal contraception?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "Logic to be added - if yes, ineligible for participation",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q10_Contraception",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Are you currently on antidepressant medication?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Preamble_PSST",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "descriptive",
+        "field_label": "Do you experience some or any of the following premenstrual symptoms which start before your period and stop within a few days of bleeding?",
+        "select_choices_or_calculations": [
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q1_PSST",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Depressed mood or hopelessness",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Not at all"
+            },
+            {
+                "code": "2",
+                "label": "Mild"
+            },
+            {
+                "code": "3",
+                "label": "Moderate"
+            },
+            {
+                "code": "4",
+                "label": "Severe"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q1_PSST",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Anxiety or tension",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Not at all"
+            },
+            {
+                "code": "2",
+                "label": "Mild"
+            },
+            {
+                "code": "3",
+                "label": "Moderate"
+            },
+            {
+                "code": "4",
+                "label": "Severe"
             }
         ],
         "field_note": "",
