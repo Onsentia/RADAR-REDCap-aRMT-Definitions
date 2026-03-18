@@ -1,0 +1,154 @@
+[
+    {
+        "field_name": "P1_Welcome",
+        "form_name": "Cycle Study Initial Questionnaire",
+        "section_header": "",
+        "field_type": "descriptive",
+        "field_label": "Welcome to the Cycle Study!  We’d like to start by asking some questions about you. Then, we will ask you to complete Daily and Weekly Questionnaires for two menstrual cycles, or 10 weeks, whichever comes first.  If you have any further questions, please contact us at cyclestudy@kcl.ac.uk. ",
+        "select_choices_or_calculations": "",
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "P2_Initial Q",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "descriptive",
+        "field_label": "These questions are about you. There are no right or wrong answers. You can put \"Prefer not to answer”. Please click 'Next' to begin the questionnaire",
+        "select_choices_or_calculations": "",
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q1_Gender",
+        "form_name": "Cycle Study Initial Questionnaire",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "What is your gender identity? ",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Female"
+            },
+            {
+                "code": "2",
+                "label": "Male"
+            },
+            {
+                "code": "3",
+                "label": "Non-binary/Genderqueer "
+            },
+            {
+                "code": "4",
+                "label": "Prefer to self-define"
+            },
+            {
+                "code": "5",
+                "label": "Don't Know"
+            },
+            {
+                "code": "6",
+                "label": "Prefer not to answer"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q2_DOB",
+        "form_name": "Cycle Study Initial Questionnaire",
+        "section_header": "",
+        "field_type": "text",
+        "field_label": "Date of birth: ",
+        "select_choices_or_calculations": [
+            {
+                "code": "",
+                "label": ""
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q3_Ethnicity",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Ethnicity: (These are the government recommended categories for measuring ethnicity. However, we appreciate that they may  not accurately represent everyone. Please feel free to use a text-box to self-define.)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "White - English, Welsh, Scottish, Northern Irish or British"
+            },
+            {
+                "code": "2",
+                "label": "White - Irish"
+            },
+            {
+                "code": "3",
+                "label": "White - Gypsy or Irish Traveller "
+            },
+            {
+                "code": "",
+                "label": "White - Any other White background"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]
