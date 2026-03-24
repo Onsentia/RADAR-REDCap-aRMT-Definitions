@@ -1,30 +1,30 @@
 [
     {
-        "field_name": "eq5d_mb_5l_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
-        "section_header": "How the proxy thinks the other person (e.g. the patient or care recipient) would describe their own health Under each heading, please choose the ONE answer that you think the person would choose to describe their own health TODAY",
+        "field_name": "eq5d_mb_5l_uk_eng",
+        "form_name": "eq5d5l",
+        "section_header": "Please select the ONE box that best describes your health TODAY.",
         "field_type": "radio",
         "field_label": "MOBILITY",
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "No problems in walking about"
+                "label": "I have no problems in walking about"
             },
             {
                 "code": "2",
-                "label": "Slight problems in walking about"
+                "label": "I have slight problems in walking about"
             },
             {
                 "code": "3",
-                "label": "Moderate problems in walking about"
+                "label": "I have moderate problems in walking about"
             },
             {
                 "code": "4",
-                "label": "Severe problems in walking about"
+                "label": "I have severe problems in walking about"
             },
             {
                 "code": "5",
-                "label": "Unable to walk about"
+                "label": "I am unable to walk about"
             }
         ],
         "field_note": "",
@@ -42,31 +42,31 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "eq5d_sc_5l_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
-        "section_header": "",
+        "field_name": "eq5d_sc_5l_uk_eng",
+        "form_name": "eq5d5l",
+        "section_header": "Please select the ONE box that best describes your health TODAY.",
         "field_type": "radio",
         "field_label": "SELF-CARE",
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "No problems washing or dressing him/herself"
+                "label": "I have no problems washing or dressing myself"
             },
             {
                 "code": "2",
-                "label": "Slight problems washing or dressing him/herself"
+                "label": "I have slight problems washing or dressing myself"
             },
             {
                 "code": "3",
-                "label": "Moderate problems washing or dressing him/herself"
+                "label": "I have moderate problems washing or dressing myself"
             },
             {
                 "code": "4",
-                "label": "Severe problems washing or dressing him/herself"
+                "label": "I have severe problems washing or dressing myself"
             },
             {
                 "code": "5",
-                "label": "Unable to wash or dress him/herself"
+                "label": "I am unable to wash or dress myself"
             }
         ],
         "field_note": "",
@@ -84,31 +84,31 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "eq5d_ua_5l_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
-        "section_header": "",
+        "field_name": "eq5d_ua_5l_uk_eng",
+        "form_name": "eq5d5l",
+        "section_header": "Please select the ONE box that best describes your health TODAY.",
         "field_type": "radio",
         "field_label": "USUAL ACTIVITIES (e.g. work, study, housework, family or leisure activities)",
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "No problems doing his/her usual activities"
+                "label": "I have no problems doing my usual activities"
             },
             {
                 "code": "2",
-                "label": "Slight problems doing his/her usual activities"
+                "label": "I have slight problems doing my usual activities"
             },
             {
                 "code": "3",
-                "label": "Moderate problems doing his/her usual activities"
+                "label": "I have moderate problems doing my usual activities"
             },
             {
                 "code": "4",
-                "label": "Severe problems doing his/her usual activities"
+                "label": "I have severe problems doing my usual activities"
             },
             {
                 "code": "5",
-                "label": "Unable to do his/her usual activities"
+                "label": "I am unable to do my usual activities"
             }
         ],
         "field_note": "",
@@ -126,31 +126,31 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "eq5d_pd_5l_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
-        "section_header": "",
+        "field_name": "eq5d_pd_5l_uk_eng",
+        "form_name": "eq5d5l",
+        "section_header": "Please select the ONE box that best describes your health TODAY.",
         "field_type": "radio",
         "field_label": "PAIN / DISCOMFORT",
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "No pain or discomfort"
+                "label": "I have no pain or discomfort"
             },
             {
                 "code": "2",
-                "label": "Slight pain or discomfort"
+                "label": "I have slight pain or discomfort"
             },
             {
                 "code": "3",
-                "label": "Moderate pain or discomfort"
+                "label": "I have moderate pain or discomfort"
             },
             {
                 "code": "4",
-                "label": "Severe pain or discomfort"
+                "label": "I have severe pain or discomfort"
             },
             {
                 "code": "5",
-                "label": "Extreme pain or discomfort"
+                "label": "I have extreme pain or discomfort"
             }
         ],
         "field_note": "",
@@ -168,31 +168,31 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "eq5d_ad_5l_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
-        "section_header": "",
+        "field_name": "eq5d_ad_5l_uk_eng",
+        "form_name": "eq5d5l",
+        "section_header": "Please select the ONE box that best describes your health TODAY.",
         "field_type": "radio",
         "field_label": "ANXIETY / DEPRESSION",
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Not anxious or depressed"
+                "label": "I am not anxious or depressed"
             },
             {
                 "code": "2",
-                "label": "Slightly anxious or depressed"
+                "label": "I am slightly anxious or depressed"
             },
             {
                 "code": "3",
-                "label": "Moderately anxious or depressed"
+                "label": "I am moderately anxious or depressed"
             },
             {
                 "code": "4",
-                "label": "Severely anxious or depressed"
+                "label": "I am severely anxious or depressed"
             },
             {
                 "code": "5",
-                "label": "Extremely anxious or depressed"
+                "label": "I am extremely anxious or depressed"
             }
         ],
         "field_note": "",
@@ -210,25 +210,12 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "eq5d5l_vas2_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
+        "field_name": "eq5d5l_vas2_uk_eng",
+        "form_name": "eq5d5l",
         "section_header": "",
         "field_type": "slider",
-        "field_label": "We would like to know how good or bad you think the person would say their own health is TODAY. You will see a line numbered from 0 to 100. 100 means the best imaginable health. 0 means the worst imaginable health. Please indicate on the line how you think the person would say their own health is TODAY.",
-        "select_choices_or_calculations": [
-            {
-                "code": "0",
-                "label": "0 - The worst imaginable health"
-            },
-            {
-                "code": "50",
-                "label": "50"
-            },
-            {
-                "code": "100",
-                "label": "100 - The best imaginable health"
-            }
-        ],
+        "field_label": "We would like to know how good or bad your health is TODAY. You will see a scale numbered from 0 to 100. 100 means the best health you can imagine. 0 means the worst health you can imagine. Please indicate on the scale how your health is TODAY.",
+        "select_choices_or_calculations": [],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "number",
         "text_validation_min": "0",
@@ -246,16 +233,16 @@
             "min": "0",
             "max": "100",
             "step": "1",
-            "labelLeft": "0 - The worst imaginable health",
-            "labelRight": "100 - The best imaginable health"
+            "labelLeft": "0 - The worst health you can imagine",
+            "labelRight": "100 - The best health you can imagine"
         }
     },
     {
-        "field_name": "eq5d5l_copy6_uk_eng_p2",
-        "form_name": "eq5d5l_proxy_2",
+        "field_name": "eq5d5l_copy6_uk_eng_v3",
+        "form_name": "eq5d5l",
         "section_header": "",
         "field_type": "descriptive",
-        "field_label": "<div><span style=\"font-weight: normal\"><i>© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. UK (English) v1.5. This is a modified EQ-5D.</i></span></div>",
+        "field_label": "<div><span style=\"font-weight: normal\"><i>© EuroQol Research Foundation. EQ-5D™ is a trade mark of the EuroQol Research Foundation. UK (English) v1.0</i></span></div>",
         "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
