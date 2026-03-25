@@ -4,7 +4,7 @@
         "form_name": "Cycle Study Initial Questionnaire",
         "section_header": "",
         "field_type": "descriptive",
-        "field_label": "Welcome to the Cycle Study!  We’d like to start by asking some questions about you. Then, we will ask you to complete Daily and Weekly Questionnaires for two menstrual cycles, or 10 weeks, whichever comes first.  If you have any questions, please contact us at cyclestudy@kcl.ac.uk. ",
+        "field_label": "Welcome to the Cycle Study!  We’d like to start by asking some questions about you. Then, we will ask you to complete daily and weekly Questionnaires for two menstrual cycles, or 10 weeks, whichever comes first.  If you have any questions, please contact us at cyclestudy@kcl.ac.uk. ",
         "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
@@ -1195,44 +1195,6 @@
         "section_header": "",
         "field_type": "checkbox",
         "field_label": "Have your symptoms interfered with your work efficiency or productivity? ",
-        "select_choices_or_calculations": [
-            {
-                "code": "1",
-                "label": "Not at all"
-            },
-            {
-                "code": "2",
-                "label": "Mild"
-            },
-            {
-                "code": "3",
-                "label": "Moderate"
-            },
-            {
-                "code": "4",
-                "label": "Severe"
-            }
-        ],
-        "field_note": "",
-        "text_validation_type_or_show_slider_number": "",
-        "text_validation_min": "",
-        "text_validation_max": "",
-        "identifier": "",
-        "branching_logic": "",
-        "required_field": "",
-        "custom_alignment": "",
-        "question_number": "",
-        "matrix_group_name": "",
-        "matrix_ranking": "",
-        "field_annotation": "",
-        "evaluated_logic": ""
-    },
-    {
-        "field_name": "Q16_PSST",
-        "form_name": "",
-        "section_header": "",
-        "field_type": "checkbox",
-        "field_label": "Have your symptoms interfered with your relationships with coworkers? ",
         "select_choices_or_calculations": [
             {
                 "code": "1",
