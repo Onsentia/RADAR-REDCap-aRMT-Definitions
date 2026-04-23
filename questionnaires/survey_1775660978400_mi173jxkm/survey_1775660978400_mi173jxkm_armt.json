@@ -21,6 +21,44 @@
         "evaluated_logic": ""
     },
     {
+        "field_name": "Q1_Medication",
+        "form_name": "Biweekly Questionnaire",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Have you started any new medication in the past 2 weeks?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes - Hormonal Contraception"
+            },
+            {
+                "code": "2",
+                "label": "Yes - For my mental health"
+            },
+            {
+                "code": "3",
+                "label": "Yes - For my physical health"
+            },
+            {
+                "code": "4",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
         "field_name": "GAD7_PHQ9_Intro",
         "form_name": "Biweekly Questionnaire",
         "section_header": "",
