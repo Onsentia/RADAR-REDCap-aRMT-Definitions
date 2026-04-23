@@ -262,12 +262,86 @@
         "evaluated_logic": ""
     },
     {
-        "field_name": "Q5_Profession or study",
+        "field_name": "Q5_Employment Status",
         "form_name": "",
         "section_header": "",
-        "field_type": "text",
-        "field_label": "Current profession or study:",
+        "field_type": "checkbox",
+        "field_label": "What is your current employment status?",
         "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "In paid full-time employment"
+            },
+            {
+                "code": "2",
+                "label": "In paid part-time employment"
+            },
+            {
+                "code": "3",
+                "label": "Self-employed"
+            },
+            {
+                "code": "4",
+                "label": "Unemployed"
+            },
+            {
+                "code": "5",
+                "label": "Looking after home and / or family"
+            },
+            {
+                "code": "6",
+                "label": "Unable to work because of sickness or disability"
+            },
+            {
+                "code": "7",
+                "label": "Doing unpaid voluntary work"
+            },
+            {
+                "code": "8",
+                "label": "Full or part-time student"
+            },
+            {
+                "code": "9",
+                "label": "None of the above"
+            },
+            {
+                "code": "10",
+                "label": "Prefer not to answer "
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "Q6_Benefits",
+        "form_name": "",
+        "section_header": "",
+        "field_type": "checkbox",
+        "field_label": "Do you receive any state benefits? E.g., Universal Credit",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            },
+            {
+                "code": "3",
+                "label": "Prefer not to answer"
+            }
         ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
@@ -562,36 +636,6 @@
             }
         ],
         "field_note": "",
-        "text_validation_type_or_show_slider_number": "",
-        "text_validation_min": "",
-        "text_validation_max": "",
-        "identifier": "",
-        "branching_logic": "",
-        "required_field": "",
-        "custom_alignment": "",
-        "question_number": "",
-        "matrix_group_name": "",
-        "matrix_ranking": "",
-        "field_annotation": "",
-        "evaluated_logic": ""
-    },
-    {
-        "field_name": "Q10_Contraception",
-        "form_name": "",
-        "section_header": "",
-        "field_type": "checkbox",
-        "field_label": "Are you currently using hormonal contraception?",
-        "select_choices_or_calculations": [
-            {
-                "code": "1",
-                "label": "Yes"
-            },
-            {
-                "code": "2",
-                "label": "No"
-            }
-        ],
-        "field_note": "Logic to be added - if yes, ineligible for participation",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
         "text_validation_max": "",
