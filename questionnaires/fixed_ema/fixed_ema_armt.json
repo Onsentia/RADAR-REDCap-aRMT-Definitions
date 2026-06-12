@@ -216,7 +216,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you want it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -244,7 +245,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you need it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -272,7 +274,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how strong was the urge to have it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -300,7 +303,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you picture it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -328,7 +332,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you image its taste?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -356,7 +361,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you imagine its smell?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -384,7 +390,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you imagine what it would feel like in your mouth/throat/body?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -412,7 +419,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how hard were you trying to not think about it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -440,7 +448,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how intrusive were the thoughts?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -468,7 +477,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how hard was it to think about anything else?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -707,7 +717,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you want it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -735,7 +746,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you need it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -847,7 +859,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you image its smell?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -875,7 +888,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you imagine what it would feel like in your mouth/throat/body?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -903,7 +917,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how hard were you trying to not think about it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1198,7 +1213,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you want it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1226,7 +1242,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you need it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1338,7 +1355,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you image its smell?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1366,7 +1384,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you imagine what it would feel like in your mouth/throat/body?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1394,7 +1413,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how hard were you trying to not think about it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1689,7 +1709,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you want it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1717,7 +1738,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how much did you need it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1829,7 +1851,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you image its smell?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1857,7 +1880,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how vividly did you imagine what it would feel like in your mouth/throat/body?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
@@ -1885,7 +1909,8 @@
         "section_header": "",
         "field_type": "slider",
         "field_label": "At the time of cocaine craving, how hard were you trying to not think about it?",
-        "select_choices_or_calculations": [],
+        "select_choices_or_calculations": [
+        ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
