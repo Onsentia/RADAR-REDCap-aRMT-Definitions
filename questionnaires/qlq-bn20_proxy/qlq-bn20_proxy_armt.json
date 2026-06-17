@@ -1,8 +1,8 @@
 [
   {
-    "field_name": "bn20_q31",
+    "field_name": "bn20_q31_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Patients sometimes report that they have the following symptoms. Please indicate the extent to which you have experienced these symptoms or problems during the past week. Please answer how you think the patient would answer about themselves.",
+    "section_header": "Patients sometimes report that they have the following symptoms. Please indicate the extent to which you have experienced these symptoms or problems during the past week. Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "31. Did you feel uncertain about the future?",
     "select_choices_or_calculations": [
@@ -38,9 +38,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q32",
+    "field_name": "bn20_q32_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "32. Did you feel you had setbacks in your condition?",
     "select_choices_or_calculations": [
@@ -76,9 +76,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q33",
+    "field_name": "bn20_q33_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "33. Were you concerned about disruption of family life?",
     "select_choices_or_calculations": [
@@ -114,9 +114,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q34",
+    "field_name": "bn20_q34_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "34. Did you have headaches?",
     "select_choices_or_calculations": [
@@ -152,9 +152,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q35",
+    "field_name": "bn20_q35_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "35. Did your outlook on the future worsen?",
     "select_choices_or_calculations": [
@@ -190,9 +190,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q36",
+    "field_name": "bn20_q36_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "36. Did you have double vision?",
     "select_choices_or_calculations": [
@@ -228,9 +228,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q37",
+    "field_name": "bn20_q37_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "37. Was your vision blurred?",
     "select_choices_or_calculations": [
@@ -266,9 +266,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q38",
+    "field_name": "bn20_q38_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "38. Did you have difficulty reading because of your vision?",
     "select_choices_or_calculations": [
@@ -304,9 +304,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q39",
+    "field_name": "bn20_q39_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "39. Did you have seizures?",
     "select_choices_or_calculations": [
@@ -342,9 +342,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q40",
+    "field_name": "bn20_q40_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "40. Did you have weakness on one side of your body?",
     "select_choices_or_calculations": [
@@ -380,9 +380,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q41",
+    "field_name": "bn20_q41_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "41. Did you have trouble finding the right words to express yourself?",
     "select_choices_or_calculations": [
@@ -418,9 +418,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q42",
+    "field_name": "bn20_q42_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "42. Did you have difficuty speaking?",
     "select_choices_or_calculations": [
@@ -456,9 +456,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q43",
+    "field_name": "bn20_q43_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "43. Did you have trouble communicating your thoughts?",
     "select_choices_or_calculations": [
@@ -494,9 +494,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q44",
+    "field_name": "bn20_q44_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "44. Did you feel drowsy during the daytime?",
     "select_choices_or_calculations": [
@@ -532,9 +532,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q45",
+    "field_name": "bn20_q45_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "45. Did you have trouble with your coordination?",
     "select_choices_or_calculations": [
@@ -570,9 +570,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q46",
+    "field_name": "bn20_q46_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "46. Did hair loss bother you?",
     "select_choices_or_calculations": [
@@ -608,9 +608,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q47",
+    "field_name": "bn20_q47_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "47. Did itching of your skin bother you?",
     "select_choices_or_calculations": [
@@ -646,9 +646,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q48",
+    "field_name": "bn20_q48_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "48. Did you have weakness of both legs?",
     "select_choices_or_calculations": [
@@ -684,9 +684,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q49",
+    "field_name": "bn20_q49_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "49. Did you feel unsteady on your feet?",
     "select_choices_or_calculations": [
@@ -722,9 +722,9 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_q50",
+    "field_name": "bn20_q50_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "radio",
     "field_label": "50. Did you have trouble controlling your bladder?",
     "select_choices_or_calculations": [
@@ -760,11 +760,11 @@
     "evaluated_logic": ""
   },
   {
-    "field_name": "bn20_copyright",
+    "field_name": "bn20_copyright_prx",
     "form_name": "eortcqlqbn20",
-    "section_header": "Please answer how you think the patient would answer about themselves.",
+    "section_header": "Please answer with your own opinion on the participants’ health.",
     "field_type": "descriptive",
-    "field_label": "<div class=\"rich-text-field-label\"><p style=\"text-align: right;\"><span style=\"font-weight: normal;\"><em>EORTCQLQ-BN20 © Copyright 1995 EORTC Quality of Life Group. </em></span><br><span style=\"font-weight: normal;\"><em>All rights reserved. Version 3.0</em></span></p></div>",
+    "field_label": "<div class=\"rich-text-field-label\"><p style=\"text-align: right;\"><span style=\"font-weight: normal;\"><em>EORTCQLQ-BN20 \u00a9 Copyright 1995 EORTC Quality of Life Group. </em></span><br><span style=\"font-weight: normal;\"><em>All rights reserved. Version 3.0</em></span></p></div>",
     "select_choices_or_calculations": "",
     "field_note": "",
     "text_validation_type_or_show_slider_number": "",
