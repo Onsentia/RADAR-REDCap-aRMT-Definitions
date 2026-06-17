@@ -1,0 +1,62 @@
+[
+    {
+        "field_name": "test1",
+        "form_name": "test questionnaire",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Question here?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Option 1"
+            },
+            {
+                "code": "2",
+                "label": "Option 2"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "test2",
+        "form_name": "test questionnaire",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Question here?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Option2"
+            },
+            {
+                "code": "2",
+                "label": "Option3"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "[test1] = 1",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]
