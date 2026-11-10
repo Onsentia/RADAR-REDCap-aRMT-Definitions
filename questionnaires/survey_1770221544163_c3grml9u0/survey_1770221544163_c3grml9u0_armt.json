@@ -24,7 +24,7 @@
         "field_name": "q2",
         "form_name": "staging_test",
         "section_header": "",
-        "field_type": "radio",
+        "field_type": "slider",
         "field_label": "Question 2",
         "select_choices_or_calculations": [
             {
@@ -38,8 +38,8 @@
         ],
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
-        "text_validation_min": "",
-        "text_validation_max": "",
+        "text_validation_min": "0",
+        "text_validation_max": "10",
         "identifier": "",
         "branching_logic": "",
         "required_field": "",
@@ -48,6 +48,12 @@
         "matrix_group_name": "",
         "matrix_ranking": "",
         "field_annotation": "",
-        "evaluated_logic": ""
+        "evaluated_logic": "",
+        "range": {
+            "min": "0",
+            "max": "10",
+            "labelLeft": "Not at all",
+            "labelRight": "Very Much"
+        }
     }
 ]
